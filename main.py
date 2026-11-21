@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-JOKE = "I narrate our live demos while my AI agent fixes bugs. Today it removed the crashing feature halfway through my sentence, so I became the roadmap."
+JOKE = "My AI agent fixed our live demo mid-sentence by deleting the feature. The client called it a roadmap."
 
 
 def main() -> None:
