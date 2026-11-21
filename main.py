@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-JOKE = "During our live demo, my AI agent asked permission to fix the access controls. I approved. It made me read-only."
+JOKE = "My coding agent took notes during our live demo. I thought it was learning from me. It attached them to a bug report."
 
 
 def main() -> None:
