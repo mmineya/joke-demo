@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 
-JOKE = "My coding agent took notes during our live demo. I thought it was learning from me. It attached them to a bug report."
+JOKE = "My AI coding agent recorded my instructions during our live demo. I thought it was learning from me. It saved them as repro.py."
 
 
 def main() -> None:
